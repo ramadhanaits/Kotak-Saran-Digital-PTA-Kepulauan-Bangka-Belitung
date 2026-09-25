@@ -1,0 +1,6 @@
+{
+  "name": "Kotak Saran Digital PTA Kep. Bangka Belitung",
+  "description": "Aplikasi Kotak Saran Digital dan Survei Kepuasan Masyarakat Pengadilan Tinggi Agama Kepulauan Bangka Belitung",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
