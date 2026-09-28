@@ -12,7 +12,7 @@ const RATING_OPTIONS: RatingOption[] = [
     score: 1,
     emoji: '😡',
     label: 'Tidak Puas',
-    sublabel: '(Sangat)',
+    sublabel: '',
     color: 'red',
     bgGradient: 'from-red-50 to-rose-100/90',
     borderColor: 'border-red-200',
