@@ -135,7 +135,7 @@ export default function App() {
             <span className="hidden sm:inline">·</span>
             <span>Pelayanan Terpadu Satu Pintu (PTSP)</span>
             <span className="hidden sm:inline">·</span>
-            <span>Wilayah Birokrasi Bersih dan Melayani (WBBM)</span>
+            <span>Menuju Wilayah Bebas Korupsi (WBK)</span>
           </div>
         </footer>
       )}
