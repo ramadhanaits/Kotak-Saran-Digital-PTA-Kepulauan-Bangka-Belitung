@@ -10,7 +10,7 @@ interface FeedbackDetailModalProps {
 }
 
 const RATING_MAP = {
-  1: { emoji: '😡', label: 'Tidak Puas (Sangat)', color: 'text-red-600 bg-red-50' },
+  1: { emoji: '😡', label: 'Tidak Puas', color: 'text-red-600 bg-red-50' },
   2: { emoji: '🙁', label: 'Kurang Puas', color: 'text-orange-600 bg-orange-50' },
   3: { emoji: '😐', label: 'Cukup', color: 'text-amber-600 bg-amber-50' },
   4: { emoji: '😊', label: 'Puas', color: 'text-emerald-600 bg-emerald-50' },
